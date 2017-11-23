@@ -1,1 +1,12 @@
-{"smsm":{"customerCode":28786574 ,"transactionId":8979 ,"packageId":1}}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+/*{"smsm":{"customerCode":28786574 ,"transactionId":8979 ,"packageId":1}}*/
